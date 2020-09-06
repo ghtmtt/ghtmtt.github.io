@@ -1,7 +1,7 @@
 # Site
 name: 'Mountain Punx'
 description: 'Love the Nature dont feed the system'
-baseurl: ""
+baseurl: ''
 #logo: 'assets/images/logo.png'
 #favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll'
